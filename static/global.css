@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/OpenSans-Regular.woff) format("woff2");
+}
+
+body {
+  margin: 0;
+	font-family: "Open Sans", "system-ui";
+	font-size: 14px;
+	line-height: 1.5;
+	background-color: #202E3A;
+	color: #fff;; 
+}
